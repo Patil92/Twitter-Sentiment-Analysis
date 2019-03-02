@@ -1,2 +1,2 @@
 # Twitter-Sentiment-Analysis
-Sentiment analysis using twitter Bot
+Sentiment analysis using twitter bot using TextBlob
